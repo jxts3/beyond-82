@@ -1,1 +1,1 @@
-{"accuracy": 90.6, "std": 6.8, "n_players": 159, "n_features": 56, "falls_precision": 91, "falls_recall": 94, "scales_precision": 89, "scales_recall": 85, "era_start": 2011, "era_end": 2026}
+{"accuracy": 84.3, "std": 5.3, "n_players": 159, "n_features": 58, "falls_precision": 91, "falls_recall": 94, "scales_precision": 89, "scales_recall": 85, "era_start": 2011, "era_end": 2026}
